@@ -16,13 +16,22 @@
 		</encoder>
 	</appender>
 	
-	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
+	<appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
 		<file>${projectDir}/logs/logs.log</file>
-		<append>true</append>
 		<encoder>
-			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{35} - %msg%n</pattern>
+			<pattern>%-4relative [%thread] %-5level %logger{35} - %msg %n</pattern>
 		</encoder>
+
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			
+			<fileNamePattern>${projectDir}/logs/logs.%d.log</fileNamePattern>
+			<maxHistory>30</maxHistory>
+    		<totalSizeCap>3GB</totalSizeCap>
+    		
+		</rollingPolicy>
+
 	</appender>
+
 
 	<logger name="waterfall.controller" level="DEBUG" additivity="false">
 		<appender-ref ref="CHATFILE"/>
