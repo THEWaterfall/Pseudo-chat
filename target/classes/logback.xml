@@ -1,0 +1,40 @@
+<!DOCTYPE xml>
+<configuration debug="true">
+	<property name="projectDir" value="D:/Ecliplse-JEE/Workspace/pseudo-chat"/>
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+	    <encoder>
+	      <pattern>%-4relative [%thread] %-5level %logger{35} - %msg %n</pattern>
+	    </encoder>
+ 	 </appender>
+  
+	<appender name="CHATFILE" class="ch.qos.logback.core.FileAppender">
+		<file>${projectDir}/logs/chatLogs.log</file>
+		<append>true</append>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{35} - %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
+		<file>${projectDir}/logs/logs.log</file>
+		<append>true</append>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{35} - %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<logger name="waterfall.controller" level="DEBUG" additivity="false">
+		<appender-ref ref="CHATFILE"/>
+		<appender-ref ref="STDOUT"/>
+	</logger>
+	
+	<logger name="waterfall" level="DEBUG" additivity="false">
+		<appender-ref ref="FILE"/>
+		<appender-ref ref="STDOUT"/>
+	</logger>
+	
+	
+	
+
+</configuration>

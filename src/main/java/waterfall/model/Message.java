@@ -9,6 +9,11 @@ public class Message {
 		
 	}
 	
+	@Override
+	public String toString() {
+		return "Message [message=" + message + ", author=" + author + "]";
+	}
+
 	public int getId() {
 		return id;
 	}

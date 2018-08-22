@@ -8,12 +8,16 @@ import java.sql.Statement;
 
 import javax.sql.DataSource;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import com.sun.rowset.CachedRowSetImpl;
 
 import waterfall.model.Message;
 
 public class DBUtil {
 	private DataSource dataSource;
+	private static final Logger logger = LoggerFactory.getLogger(DBUtil.class);
 	
 	public DBUtil(DataSource dataSource) {
 		this.dataSource = dataSource;
@@ -68,6 +72,7 @@ public class DBUtil {
 	}
 	
 	public ResultSet dbExecuteQuery(String query)  {
+		logger.debug("Executing update query: '{}'", query);
 		Connection con = null;
 		Statement stmt = null;
 		ResultSet rs = null;
@@ -81,8 +86,9 @@ public class DBUtil {
 			crs = new CachedRowSetImpl();
 			crs.populate(rs);
 		} catch (SQLException e) {
-			e.printStackTrace();
+			logger.error("Error occured during the execution of the query: '{}'", query, e);
 		} finally {
+			logger.debug("Closing execution");
 			close(rs, stmt, con);
 		}
 		
@@ -91,6 +97,7 @@ public class DBUtil {
 	}
 	
 	public void dbExecuteUpdate(String query) {
+		logger.debug("Executing update query: '{}'", query);
 		Connection con = null;
 		Statement stmt = null;
 		
@@ -99,13 +106,15 @@ public class DBUtil {
 			stmt = con.createStatement();
 			stmt.executeUpdate(query);
 		} catch (SQLException e ) {
-			e.printStackTrace();
+			logger.error("Error occured during the execution of the update query: '{}'", query, e);
 		} finally {
+			logger.debug("Closing execution");
 			close(stmt, con);
 		}
 	}
 	
 	public void dbExecuteUpdatePrepStmt(String query, Message msg) {
+		logger.debug("Executing update query with prepared statement: '{}' with values {}", query, msg);
 		Connection con = null;
 		PreparedStatement ps = null;
 		
@@ -117,8 +126,9 @@ public class DBUtil {
 			ps.setString(2, msg.getAuthor());
 			ps.executeUpdate();
 		} catch (SQLException e) {
-			e.printStackTrace();
-		} finally {
+			logger.error("Error occured during the execution of the update query with prepared statement: '{}' with values {}", query, msg, e);
+		} finally {	
+			logger.debug("Closing execution");
 			close(ps,con);
 		}
 	}

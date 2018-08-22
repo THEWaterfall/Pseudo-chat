@@ -7,9 +7,13 @@ import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 @WebServlet("/LoginController")
 public class LoginController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	private static final Logger logger = LoggerFactory.getLogger(LoginController.class);
        
    
     public LoginController() {
@@ -19,8 +23,8 @@ public class LoginController extends HttpServlet {
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String nickNameFromRequest = request.getParameter("nickname");
-		System.out.println("User logged in " + nickNameFromRequest);
-		System.out.println(request.getRemoteAddr());
+		logger.info("User {} with ip {} first logged in", nickNameFromRequest, request.getRemoteAddr());
+		
 		Cookie cookie = new Cookie("nickname", nickNameFromRequest);
 		cookie.setMaxAge(60*60*60);
 		response.addCookie(cookie);

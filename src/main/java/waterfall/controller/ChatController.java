@@ -13,6 +13,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.sql.DataSource;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import waterfall.model.Message;
 import waterfall.service.ChatService;
 
@@ -20,6 +23,7 @@ import waterfall.service.ChatService;
 @WebServlet("/ChatController")
 public class ChatController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	private static final Logger logger = LoggerFactory.getLogger(ChatController.class);
 	
 	@Resource(name="jdbc/WebApp")
 	private DataSource dataSource;
@@ -38,8 +42,6 @@ public class ChatController extends HttpServlet {
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String command = request.getParameter("command");
-
-		System.out.println(command);
 		
 		if(command == null) 
 			command = "SHOWCHAT";
@@ -95,9 +97,7 @@ public class ChatController extends HttpServlet {
 	private void sendMessage(HttpServletRequest request, HttpServletResponse response) {
 		String msg = request.getParameter("message");
 		String author = request.getParameter("author");
-		System.out.println("AUTHOR IS " + author);
-		System.out.println("MSG IS " + msg);
-		
+		logger.info("User {} with ip {} sent message: '{}'", author, request.getRemoteAddr(),  msg);
 	
 		chatService.addMessage(msg, author);
 	
