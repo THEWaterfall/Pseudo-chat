@@ -1,0 +1,38 @@
+iframe {
+	border: none;
+}
+
+
+.container {
+	max-width: 1200px;	
+	margin: 0 auto;
+	
+}
+.content {
+	text-align: center;
+}
+
+#autorefresh {
+	
+}
+
+#area{
+	background:#FFFFFF;
+    resize: none;
+	overflow: auto;
+	overflow-x: hidden;
+}
+
+#area::-webkit-scrollbar-track{
+	background-color: #e2e2e2;
+}
+
+#area::-webkit-scrollbar{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+#area::-webkit-scrollbar-thumb{
+	border-radius: 100px;
+	background-color: #545454;
+}
