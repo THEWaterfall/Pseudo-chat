@@ -21,7 +21,7 @@
 			</div>
 		
 		<div id="autorefresh">
-					<label>Turn off autorefresh</label><input type="checkbox" id='timercheck' />
+			<label>Turn off autorefresh</label><input type="checkbox" id='timercheck' />
 		</div>	
 		</div>
 			
