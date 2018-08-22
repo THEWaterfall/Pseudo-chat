@@ -7,34 +7,69 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>pseudo-chat Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  
+  <properties>
+    <mysqlconnector.version>8.0.12</mysqlconnector.version>
+    <hibernate.version>5.3.3.Final</hibernate.version>
+    <jackson.version>2.9.6</jackson.version>
+  </properties>
+  
   <dependencies>
-     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
+  
+    <!-- MYSQL connector -->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>${mysqlconnector.version}</version>
     </dependency>
     
+     <!-- SLF4J + Logback -->
+     <dependency> 
+       <groupId>ch.qos.logback</groupId>
+       <artifactId>logback-classic</artifactId>
+       <version>1.0.13</version>
+	 </dependency>
+
+	 <!-- Jackson JSON -->
+	 <dependency>
+	   <groupId>com.fasterxml.jackson.core</groupId>
+	   <artifactId>jackson-databind</artifactId>
+	   <version>${jackson.version}</version>
+	 </dependency>
+	 <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+		<artifactId>jackson-annotations</artifactId>
+		<version>${jackson.version}</version>
+	 </dependency>
+	 <dependency>
+	   <groupId>com.fasterxml.jackson.core</groupId>
+       <artifactId>jackson-core</artifactId>
+	   <version>${jackson.version}</version>
+	 </dependency>    
+	 
+    <!-- Servlet -->
     <dependency>
-	    <groupId>javax.servlet</groupId>
-	    <artifactId>javax.servlet-api</artifactId>
-	    <version>4.0.1</version>
-	    <scope>provided</scope>
+	  <groupId>javax.servlet</groupId>
+	  <artifactId>javax.servlet-api</artifactId>
+	  <version>4.0.1</version>
+	  <scope>provided</scope>
 	</dependency>
 
-	
+	<!-- JSP -->
 	<dependency>
-	    <groupId>javax.servlet.jsp</groupId>
-	    <artifactId>javax.servlet.jsp-api</artifactId>
-	    <version>2.2.1</version>
+	  <groupId>javax.servlet.jsp</groupId>
+	  <artifactId>javax.servlet.jsp-api</artifactId>
+	  <version>2.2.1</version>
 	</dependency> 
-
+	
+	<!-- JSTL -->
 	<dependency>
-	    <groupId>javax.servlet</groupId>
-	    <artifactId>jstl</artifactId>
-	    <version>1.2</version>
+	  <groupId>javax.servlet</groupId>
+	  <artifactId>jstl</artifactId>
+	  <version>1.2</version>
 	</dependency>
   </dependencies>
+  
   <build>
     <finalName>pseudo-chat</finalName>
   </build>
