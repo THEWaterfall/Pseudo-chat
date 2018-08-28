@@ -4,7 +4,7 @@
 </head>
 <body>
 	<div class="container">
-		<div class="content">
+		<div class="loginContent">
 			<form action="LoginController" method="POST">
 				<input type="hidden" name="command" value="LOGGEDIN">		
 			
@@ -15,8 +15,10 @@
 				<input type="password" name="password" required>
 				
 				<input type="submit" value="Login">
+				
 			</form>
 		</div>
+		<a href="HomeController">GO HOME</a>
 	</div>
 </body>
 </html>

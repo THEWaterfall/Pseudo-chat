@@ -6,12 +6,12 @@ a {
 }
 
 .container {
-	max-width: 1200px;	
+	max-width: 1000px;	
 	margin: 0 auto;
-	
+	text-align: center;	
 }
 .content {
-	text-align: center;
+	
 }
 
 #autorefresh {
@@ -40,24 +40,37 @@ a {
 }
 
 .homeChat {
-	display: inline-block;
-	
-	border: 1px solid black;
+	height:100px;
+    width:200px;
+	margin: auto;
 }
 
 .homeChat>a {
 	display: block;
 	padding: 25px;
 	width: 100px;
+	border: 1px solid black;
 }
 
 .homeLogin {
-	display: inline-block;
-	border: 1px solid black;
+	height:100px;
+    width:200px;
+	margin: auto;
 }
 
 .homeLogin>a {
 	display: block;
 	padding: 25px;
 	width: 100px;
+	border: 1px solid black;
+}
+
+.homeLogin>a:hover, .homeChat>a:hover {
+	background-color: black;
+	color: #FFFFFF;
+}
+
+.loginContent input {
+	display: block;
+	margin: 10px auto;
 }
