@@ -1,0 +1,688 @@
+5466 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5884 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+7859 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7869 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+9497 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+9505 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+11115 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+11121 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Closing execution 
+12718 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+12726 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+19310 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+19314 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+20906 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+20912 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+260  [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+536  [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+3513 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=q, value2=q] 
+3853 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+17664 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+17672 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+250  [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+269  [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Closing execution 
+14078 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+14420 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+272  [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+298  [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+68416 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwertyy] 
+68424 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+248  [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=q, value2=q] 
+267  [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+14367 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+14376 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+232  [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+250  [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Closing execution 
+4715 [http-nio-8080-exec-21] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+4735 [http-nio-8080-exec-21] DEBUG waterfall.util.DBUtil - Closing execution 
+4940 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4950 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Closing execution 
+6825 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+6839 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+8529 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8535 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Closing execution 
+10167 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+10172 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Closing execution 
+11777 [http-nio-8080-exec-23] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+11781 [http-nio-8080-exec-23] DEBUG waterfall.util.DBUtil - Closing execution 
+13385 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+13392 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+15000 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+15005 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Closing execution 
+16610 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+16616 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Closing execution 
+18244 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+18250 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Closing execution 
+19907 [http-nio-8080-exec-34] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+19911 [http-nio-8080-exec-34] DEBUG waterfall.util.DBUtil - Closing execution 
+21797 [http-nio-8080-exec-35] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+21802 [http-nio-8080-exec-35] DEBUG waterfall.util.DBUtil - Closing execution 
+4567 [http-nio-8080-exec-39] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4594 [http-nio-8080-exec-39] DEBUG waterfall.util.DBUtil - Closing execution 
+5300 [http-nio-8080-exec-38] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5311 [http-nio-8080-exec-38] DEBUG waterfall.util.DBUtil - Closing execution 
+37373 [http-nio-8080-exec-42] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+37380 [http-nio-8080-exec-42] DEBUG waterfall.util.DBUtil - Closing execution 
+38154 [http-nio-8080-exec-43] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+38160 [http-nio-8080-exec-43] DEBUG waterfall.util.DBUtil - Closing execution 
+314  [http-nio-8080-exec-40] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+329  [http-nio-8080-exec-40] DEBUG waterfall.util.DBUtil - Closing execution 
+1995 [http-nio-8080-exec-41] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2001 [http-nio-8080-exec-41] DEBUG waterfall.util.DBUtil - Closing execution 
+35500 [http-nio-8080-exec-47] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+35504 [http-nio-8080-exec-47] DEBUG waterfall.util.DBUtil - Closing execution 
+37361 [http-nio-8080-exec-44] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+37366 [http-nio-8080-exec-44] DEBUG waterfall.util.DBUtil - Closing execution 
+281  [http-nio-8080-exec-47] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+281  [http-nio-8080-exec-48] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+298  [http-nio-8080-exec-48] DEBUG waterfall.util.DBUtil - Closing execution 
+300  [http-nio-8080-exec-47] DEBUG waterfall.util.DBUtil - Closing execution 
+483  [http-nio-8080-exec-53] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+490  [http-nio-8080-exec-53] DEBUG waterfall.util.DBUtil - Closing execution 
+1935 [http-nio-8080-exec-39] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+1940 [http-nio-8080-exec-39] DEBUG waterfall.util.DBUtil - Closing execution 
+3539 [http-nio-8080-exec-46] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+3544 [http-nio-8080-exec-46] DEBUG waterfall.util.DBUtil - Closing execution 
+5170 [http-nio-8080-exec-52] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5175 [http-nio-8080-exec-52] DEBUG waterfall.util.DBUtil - Closing execution 
+6773 [http-nio-8080-exec-47] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+6777 [http-nio-8080-exec-47] DEBUG waterfall.util.DBUtil - Closing execution 
+8382 [http-nio-8080-exec-51] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8387 [http-nio-8080-exec-51] DEBUG waterfall.util.DBUtil - Closing execution 
+10022 [http-nio-8080-exec-55] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+10028 [http-nio-8080-exec-55] DEBUG waterfall.util.DBUtil - Closing execution 
+803  [http-nio-8080-exec-60] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+828  [http-nio-8080-exec-60] DEBUG waterfall.util.DBUtil - Closing execution 
+2668 [http-nio-8080-exec-43] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2675 [http-nio-8080-exec-43] DEBUG waterfall.util.DBUtil - Closing execution 
+4331 [http-nio-8080-exec-59] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4337 [http-nio-8080-exec-59] DEBUG waterfall.util.DBUtil - Closing execution 
+3686 [http-nio-8080-exec-66] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+3711 [http-nio-8080-exec-66] DEBUG waterfall.util.DBUtil - Closing execution 
+10979 [http-nio-8080-exec-62] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+10986 [http-nio-8080-exec-62] DEBUG waterfall.util.DBUtil - Closing execution 
+11639 [http-nio-8080-exec-58] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+11645 [http-nio-8080-exec-58] DEBUG waterfall.util.DBUtil - Closing execution 
+19831 [http-nio-8080-exec-67] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+19837 [http-nio-8080-exec-67] DEBUG waterfall.util.DBUtil - Closing execution 
+21688 [http-nio-8080-exec-62] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+21693 [http-nio-8080-exec-62] DEBUG waterfall.util.DBUtil - Closing execution 
+22160 [http-nio-8080-exec-66] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+22165 [http-nio-8080-exec-66] DEBUG waterfall.util.DBUtil - Closing execution 
+23933 [http-nio-8080-exec-69] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+23938 [http-nio-8080-exec-69] DEBUG waterfall.util.DBUtil - Closing execution 
+24496 [http-nio-8080-exec-67] DEBUG waterfall.util.DBUtil - Executing update query with prepared statement: 'INSERT INTO chat.messages(messages, author) VALUES (?,?)' with values ParameterObject [value1=, value2=s] 
+24576 [http-nio-8080-exec-67] DEBUG waterfall.util.DBUtil - Closing execution 
+24762 [http-nio-8080-exec-57] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+24767 [http-nio-8080-exec-57] DEBUG waterfall.util.DBUtil - Closing execution 
+26595 [http-nio-8080-exec-58] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+26599 [http-nio-8080-exec-58] DEBUG waterfall.util.DBUtil - Closing execution 
+27465 [http-nio-8080-exec-70] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+27469 [http-nio-8080-exec-70] DEBUG waterfall.util.DBUtil - Closing execution 
+29284 [http-nio-8080-exec-67] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+29289 [http-nio-8080-exec-67] DEBUG waterfall.util.DBUtil - Closing execution 
+30896 [http-nio-8080-exec-73] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+30901 [http-nio-8080-exec-73] DEBUG waterfall.util.DBUtil - Closing execution 
+589  [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+1037 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+2680 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2687 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+8649 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8657 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+10437 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+10445 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+19980 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+19989 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+22045 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+22050 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+23670 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+23676 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+29904 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+29910 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+31836 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+31842 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+33690 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+33699 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+5496 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+5527 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+5579 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5586 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+7200 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7205 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+8777 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8781 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+65847 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+65853 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+67457 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+67464 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+69023 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+69028 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+80443 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+80449 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+82059 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+82064 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+83622 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+83630 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+85189 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+85194 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+17236 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+17261 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Closing execution 
+17308 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+17317 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+18914 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+18919 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+5812 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+6347 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+123519 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+123536 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+253  [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+277  [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+402  [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+415  [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+720  [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+728  [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+2147 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2152 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+3808 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+3813 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+5410 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5416 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+474  [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+863  [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+2450 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2459 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+4016 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4024 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+4745 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4755 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+6346 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+6352 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+7911 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7916 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+9470 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+9475 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+11020 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+11024 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+12569 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+12574 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+14122 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+14127 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+492  [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+517  [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+1746 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+1754 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+2607 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2615 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+4349 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4353 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+5970 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5974 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+7612 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7617 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+8594 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8599 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+14646 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+14656 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Closing execution 
+16396 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+16401 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+18004 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+18012 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+19606 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+19610 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+21245 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+21249 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+22838 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+22844 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Closing execution 
+24443 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+24448 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+26056 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+26060 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Closing execution 
+27669 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+27673 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+61192 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+61196 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+62195 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+62200 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+62883 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+62892 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Closing execution 
+63517 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+63524 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+64269 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+64277 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Closing execution 
+64933 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+64938 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+65247 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+65251 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+67061 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+67066 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Closing execution 
+256  [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+271  [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Closing execution 
+498  [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+506  [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+1030 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+1035 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+1355 [http-nio-8080-exec-21] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+1362 [http-nio-8080-exec-21] DEBUG waterfall.util.DBUtil - Closing execution 
+3080 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+3085 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+3762 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Executing update query with prepared statement: 'INSERT INTO chat.messages(messages, author) VALUES (?,?)' with values ParameterObject [value1=qwerty, value2=test] 
+3837 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Closing execution 
+4019 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4028 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+5749 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5754 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Closing execution 
+7384 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7388 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Closing execution 
+8986 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8991 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+10653 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+10657 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+560  [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+583  [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Closing execution 
+2358 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2365 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Closing execution 
+2839 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Executing update query with prepared statement: 'INSERT INTO chat.messages(messages, author) VALUES (?,?)' with values ParameterObject [value1=test2, value2=qwerty] 
+2844 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Closing execution 
+3022 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+3026 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Closing execution 
+4752 [http-nio-8080-exec-23] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4756 [http-nio-8080-exec-23] DEBUG waterfall.util.DBUtil - Closing execution 
+6401 [http-nio-8080-exec-25] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+6411 [http-nio-8080-exec-25] DEBUG waterfall.util.DBUtil - Closing execution 
+8017 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8022 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Closing execution 
+474  [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+803  [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+2379 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2387 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+3952 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+3961 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+5531 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5537 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+7102 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7107 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Closing execution 
+8682 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8688 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+74059 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+74066 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+75647 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+75652 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+98165 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+98171 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+100032 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+100037 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+114743 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+114761 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+114901 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+114909 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+116651 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+116657 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Closing execution 
+118275 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+118280 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+627  [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+655  [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+2563 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2570 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+4174 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4179 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+5784 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5789 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+7420 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7425 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+9029 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+9038 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+24803 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+24812 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+26690 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+26695 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+28293 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+28298 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+29186 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+29197 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+30974 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+30979 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+32592 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+32597 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+34201 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+34206 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+251  [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+270  [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+602  [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+608  [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Closing execution 
+2433 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2437 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Closing execution 
+4040 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4044 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+5666 [http-nio-8080-exec-21] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5670 [http-nio-8080-exec-21] DEBUG waterfall.util.DBUtil - Closing execution 
+7279 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7284 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+8886 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8890 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Closing execution 
+10524 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+10529 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Closing execution 
+12129 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+12134 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Closing execution 
+13737 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+13741 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Closing execution 
+15364 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+15369 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+16971 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+16976 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+18576 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+18580 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Closing execution 
+20202 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+20209 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Closing execution 
+21830 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+21834 [http-nio-8080-exec-22] DEBUG waterfall.util.DBUtil - Closing execution 
+23476 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+23487 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Closing execution 
+5112 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5626 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+57648 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+57662 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+59495 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+59501 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+558  [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+1050 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+2739 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2749 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+4853 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4864 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+6718 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+6725 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+16614 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+16647 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+16819 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+16827 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+18620 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+18625 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+20348 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+20352 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+21962 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+21968 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+258  [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+277  [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+592  [http-nio-8080-exec-23] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+602  [http-nio-8080-exec-23] DEBUG waterfall.util.DBUtil - Closing execution 
+2495 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+2503 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+4124 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+4128 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Closing execution 
+5738 [http-nio-8080-exec-24] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5743 [http-nio-8080-exec-24] DEBUG waterfall.util.DBUtil - Closing execution 
+8138 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8142 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Closing execution 
+32766 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+32776 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Closing execution 
+34439 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+34444 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Closing execution 
+36058 [http-nio-8080-exec-24] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+36062 [http-nio-8080-exec-24] DEBUG waterfall.util.DBUtil - Closing execution 
+37665 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+37670 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Closing execution 
+39290 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+39295 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Closing execution 
+40903 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+40908 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Closing execution 
+42544 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+42549 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Closing execution 
+44358 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+44363 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Closing execution 
+46140 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+46145 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Closing execution 
+47155 [http-nio-8080-exec-24] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+47160 [http-nio-8080-exec-24] DEBUG waterfall.util.DBUtil - Closing execution 
+47833 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+47838 [http-nio-8080-exec-29] DEBUG waterfall.util.DBUtil - Closing execution 
+49697 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+49704 [http-nio-8080-exec-26] DEBUG waterfall.util.DBUtil - Closing execution 
+51325 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+51330 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Closing execution 
+52974 [http-nio-8080-exec-24] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+52978 [http-nio-8080-exec-24] DEBUG waterfall.util.DBUtil - Closing execution 
+54623 [http-nio-8080-exec-33] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+54629 [http-nio-8080-exec-33] DEBUG waterfall.util.DBUtil - Closing execution 
+56227 [http-nio-8080-exec-30] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+56232 [http-nio-8080-exec-30] DEBUG waterfall.util.DBUtil - Closing execution 
+57834 [http-nio-8080-exec-31] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+57839 [http-nio-8080-exec-31] DEBUG waterfall.util.DBUtil - Closing execution 
+59476 [http-nio-8080-exec-32] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+59480 [http-nio-8080-exec-32] DEBUG waterfall.util.DBUtil - Closing execution 
+61098 [http-nio-8080-exec-25] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+61103 [http-nio-8080-exec-25] DEBUG waterfall.util.DBUtil - Closing execution 
+94444 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+94452 [http-nio-8080-exec-27] DEBUG waterfall.util.DBUtil - Closing execution 
+95461 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+95468 [http-nio-8080-exec-28] DEBUG waterfall.util.DBUtil - Closing execution 
+990  [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+1525 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+3166 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+3176 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+10078 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+10096 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+10382 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+10392 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+12282 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+12290 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+37799 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+37807 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+38739 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+38746 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+39522 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+39527 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+39829 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+39834 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+40135 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+40143 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+40362 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+40368 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+42454 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+42461 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+44123 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+44130 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+91911 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+91916 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+93775 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+93780 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+95411 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+95420 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+97038 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+97043 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+98647 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+98652 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+100259 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+100265 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+101377 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+101381 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+101439 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+101446 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+101919 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+101924 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+103025 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+103034 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+103537 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+103542 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+105148 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+105152 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+106759 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+106763 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+108376 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+108380 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+109981 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+109987 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+111597 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+111600 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+113196 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+113201 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+114833 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+114837 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+116436 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+116440 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+118052 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+118057 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+119694 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+119698 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+121295 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+121299 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+122906 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+122911 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+124995 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+124999 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+126593 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+126598 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+128270 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+128274 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+140982 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+140992 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Closing execution 
+142625 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+142629 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+802  [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+1307 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+7291 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+7309 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+7472 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+7484 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+9282 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+9289 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+10916 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+10936 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+5810 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+6120 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+6292 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+6303 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+8149 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+8155 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+9491 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query with prepared statement: 'INSERT INTO chat.messages(messages, author) VALUES (?,?)' with values ParameterObject [value1=qq, value2=qwerty] 
+9537 [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+9704 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+9715 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+11453 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+11459 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+13066 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+13072 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+14687 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+14691 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+16286 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+16291 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+17937 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+17942 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+19539 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+19545 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+21139 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+21145 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+22749 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+22754 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+24348 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+24354 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+25957 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+25961 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+27567 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+27573 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+29199 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+29204 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+30801 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+30806 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+32411 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+32416 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+34059 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+34064 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+35687 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+35691 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+37287 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+37292 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+38924 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+38929 [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+40531 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+40538 [http-nio-8080-exec-4] DEBUG waterfall.util.DBUtil - Closing execution 
+42131 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+42135 [http-nio-8080-exec-6] DEBUG waterfall.util.DBUtil - Closing execution 
+44092 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+44097 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+311  [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+311  [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+341  [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+343  [http-nio-8080-exec-1] DEBUG waterfall.util.DBUtil - Closing execution 
+347  [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+358  [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+804  [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+808  [http-nio-8080-exec-2] DEBUG waterfall.util.DBUtil - Closing execution 
+9399 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+9403 [http-nio-8080-exec-7] DEBUG waterfall.util.DBUtil - Closing execution 
+19433 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+19438 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+20509 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+20514 [http-nio-8080-exec-10] DEBUG waterfall.util.DBUtil - Closing execution 
+22288 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+22292 [http-nio-8080-exec-3] DEBUG waterfall.util.DBUtil - Closing execution 
+28287 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+28292 [http-nio-8080-exec-9] DEBUG waterfall.util.DBUtil - Closing execution 
+28436 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+28443 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+30253 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+30258 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+43278 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+43284 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+43480 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+43487 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+45074 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+45078 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+46846 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+46851 [http-nio-8080-exec-17] DEBUG waterfall.util.DBUtil - Closing execution 
+48458 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+48464 [http-nio-8080-exec-20] DEBUG waterfall.util.DBUtil - Closing execution 
+50091 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+50095 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+51689 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+51693 [http-nio-8080-exec-11] DEBUG waterfall.util.DBUtil - Closing execution 
+53287 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+53292 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+54905 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+54909 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+56568 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+56574 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+58166 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+58171 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Closing execution 
+59765 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+59769 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+61366 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+61370 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Closing execution 
+62996 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+62999 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+64619 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+64624 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+66222 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+66226 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Closing execution 
+67828 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+67834 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+69469 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+69474 [http-nio-8080-exec-19] DEBUG waterfall.util.DBUtil - Closing execution 
+71072 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+71076 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+72724 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+72729 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+5431 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+5694 [http-nio-8080-exec-8] DEBUG waterfall.util.DBUtil - Closing execution 
+5866 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+5877 [http-nio-8080-exec-5] DEBUG waterfall.util.DBUtil - Closing execution 
+180261 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+180268 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+182070 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+182077 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+183678 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+183683 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Closing execution 
+218656 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+218663 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+221972 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+221980 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+223728 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+223733 [http-nio-8080-exec-15] DEBUG waterfall.util.DBUtil - Closing execution 
+275222 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+275231 [http-nio-8080-exec-13] DEBUG waterfall.util.DBUtil - Closing execution 
+276982 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+276987 [http-nio-8080-exec-12] DEBUG waterfall.util.DBUtil - Closing execution 
+284189 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Executing query with prepared statement: 'SELECT * FROM users WHERE name=? and password=?' with values ParameterObject [value1=qwerty, value2=qwerty] 
+284195 [http-nio-8080-exec-14] DEBUG waterfall.util.DBUtil - Closing execution 
+284349 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+284354 [http-nio-8080-exec-16] DEBUG waterfall.util.DBUtil - Closing execution 
+286087 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Executing update query: 'SELECT * FROM chat.messages' 
+286094 [http-nio-8080-exec-18] DEBUG waterfall.util.DBUtil - Closing execution 

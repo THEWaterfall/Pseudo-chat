@@ -8,6 +8,7 @@ import java.util.List;
 import javax.sql.DataSource;
 
 import waterfall.model.Message;
+import waterfall.model.ParameterObject;
 import waterfall.util.DBUtil;
 
 public class ChatDAO {
@@ -50,11 +51,11 @@ public class ChatDAO {
 //		dbUtil.dbExecuteUpdate(query);
 		
 		String query = "INSERT INTO chat.messages(messages, author) VALUES (?,?)";
-		Message message = new Message();
-		message.setAuthor(author);
-		message.setMessage(msg);
+		ParameterObject po = new ParameterObject();
+		po.setValue1(msg);
+		po.setValue2(author);
 		
-		dbUtil.dbExecuteUpdatePrepStmt(query, message);
+		dbUtil.dbExecuteUpdatePrepStmt(query, po);
 	}
 }	
 

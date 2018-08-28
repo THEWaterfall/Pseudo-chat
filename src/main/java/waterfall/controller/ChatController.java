@@ -7,14 +7,15 @@ import javax.annotation.Resource;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import javax.sql.DataSource;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 
 import waterfall.model.Message;
 import waterfall.service.ChatService;
@@ -46,11 +47,6 @@ public class ChatController extends HttpServlet {
 		if(command == null) 
 			command = "SHOWCHAT";
 
-		Cookie[] cookies = request.getCookies();
-		if(cookies == null || cookies.length<2) {
-			RequestDispatcher dispatcher = request.getRequestDispatcher("/LoginView.jsp");
-			dispatcher.forward(request, response);
-		} else {
 			switch(command) {
 				case "SHOWCHAT":
 					showChat(request, response);
@@ -64,13 +60,14 @@ public class ChatController extends HttpServlet {
 				default:
 					showChatView(request, response);
 				}
-		}
+	
 
 	}
 
 	private void showChat(HttpServletRequest request, HttpServletResponse response) {
-		getNameFromCookie(request, response);
-
+		//getNameFromCookie(request, response);
+		HttpSession session = request.getSession();
+		request.setAttribute("nickname", session.getAttribute("user"));
 		
 		RequestDispatcher dispatcher = request.getRequestDispatcher("/Chat.jsp");
 		try {
@@ -80,7 +77,7 @@ public class ChatController extends HttpServlet {
 		}
 	}
 
-	private void getNameFromCookie(HttpServletRequest request, HttpServletResponse response) {
+/*	private void getNameFromCookie(HttpServletRequest request, HttpServletResponse response) {
 		String nickname = null;
 		Cookie[] cookies = request.getCookies();
 		
@@ -92,7 +89,7 @@ public class ChatController extends HttpServlet {
 		}
 		
 		
-	}
+	}*/
 
 	private void sendMessage(HttpServletRequest request, HttpServletResponse response) {
 		String msg = request.getParameter("message");
@@ -109,7 +106,7 @@ public class ChatController extends HttpServlet {
 	}
 
 	private void showChatView(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		getNameFromCookie(request, response);
+		//getNameFromCookie(request, response);
 
 		LinkedList<Message> messages = (LinkedList<Message>) chatService.getMessages();
 		request.setAttribute("messages", messages);

@@ -1,7 +1,9 @@
 iframe {
 	border: none;
 }
-
+a {
+	text-decoration: none;
+}
 
 .container {
 	max-width: 1200px;	
@@ -35,4 +37,27 @@ iframe {
 #area::-webkit-scrollbar-thumb{
 	border-radius: 100px;
 	background-color: #545454;
+}
+
+.homeChat {
+	display: inline-block;
+	
+	border: 1px solid black;
+}
+
+.homeChat>a {
+	display: block;
+	padding: 25px;
+	width: 100px;
+}
+
+.homeLogin {
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.homeLogin>a {
+	display: block;
+	padding: 25px;
+	width: 100px;
 }

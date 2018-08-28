@@ -13,7 +13,7 @@ import org.slf4j.LoggerFactory;
 
 import com.sun.rowset.CachedRowSetImpl;
 
-import waterfall.model.Message;
+import waterfall.model.ParameterObject;
 
 public class DBUtil {
 	private DataSource dataSource;
@@ -113,8 +113,8 @@ public class DBUtil {
 		}
 	}
 	
-	public void dbExecuteUpdatePrepStmt(String query, Message msg) {
-		logger.debug("Executing update query with prepared statement: '{}' with values {}", query, msg);
+	public void dbExecuteUpdatePrepStmt(String query, ParameterObject po) {
+		logger.debug("Executing update query with prepared statement: '{}' with values {}", query, po);
 		Connection con = null;
 		PreparedStatement ps = null;
 		
@@ -122,14 +122,41 @@ public class DBUtil {
 			con = dataSource.getConnection();
 			ps = con.prepareStatement(query);
 			
-			ps.setString(1,msg.getMessage());
-			ps.setString(2, msg.getAuthor());
+			ps.setString(1,po.getValue1());
+			ps.setString(2,po.getValue2());
 			ps.executeUpdate();
 		} catch (SQLException e) {
-			logger.error("Error occured during the execution of the update query with prepared statement: '{}' with values {}", query, msg, e);
+			logger.error("Error occured during the execution of the update query with prepared statement: '{}' with values {}", query, po, e);
 		} finally {	
 			logger.debug("Closing execution");
 			close(ps,con);
 		}
+	}
+	
+	public ResultSet dbExecuteQueryPrepStmt(String query, ParameterObject po) {
+		logger.debug("Executing query with prepared statement: '{}' with values {}", query, po);
+		Connection con = null;
+		PreparedStatement ps = null;
+		ResultSet rs = null;
+		CachedRowSetImpl crs = null;
+		
+		try {
+			con = dataSource.getConnection();
+			ps = con.prepareStatement(query);
+			
+			ps.setString(1,po.getValue1());
+			ps.setString(2,po.getValue2());
+			rs = ps.executeQuery();
+			
+			crs = new CachedRowSetImpl();
+			crs.populate(rs);
+		} catch (SQLException e) {
+			logger.error("Error occured during the execution of the query with prepared statement: '{}' with values {}", query, po, e);
+		} finally {	
+			logger.debug("Closing execution");
+			close(rs,ps,con);
+		}
+		
+		return crs;
 	}
 }

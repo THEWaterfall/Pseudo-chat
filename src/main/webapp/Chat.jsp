@@ -26,6 +26,13 @@
 				</form>
 			<p>${nickname}</p>
 			</div>
+			
+			<div id ="logout">
+				<form action="LogoutController" method="POST">
+					<input type="submit" value="Logout">
+				</form>
+			</div>
+			
 			<div id="json">
 				<form action="JsonController" method="POST">
 					<input type="submit" value="Messages to JSON">

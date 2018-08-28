@@ -1,0 +1,201 @@
+22:05:55.924 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User Somenic with ip 0:0:0:0:0:0:0:1 first logged in
+22:06:09.836 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.061 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.088 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.105 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.130 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.150 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.167 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.184 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.201 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.222 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.238 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.384 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.405 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.431 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.454 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.475 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.493 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.510 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.530 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.554 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:45.582 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:46.845 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:46.886 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:46.905 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:46.925 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:46.939 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:46.954 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:46.969 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:46.993 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:47.061 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:47.075 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.140 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.162 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.183 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.207 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.229 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.243 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.263 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.279 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.303 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:52.321 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.686 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.703 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.720 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.736 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.752 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.768 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.782 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.799 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.814 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:53.831 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.684 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.704 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.719 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.735 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.751 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.766 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.784 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.799 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.831 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:20:57.866 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:05.331 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:05.344 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:05.353 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:05.364 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:05.375 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:27.915 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:27.933 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:27.953 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:27.970 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:27.986 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:28.001 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:28.015 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:28.035 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:28.053 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:28.073 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.779 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.799 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.821 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.850 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.872 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.893 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.911 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.930 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.945 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:21:30.973 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.326 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.351 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.369 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.384 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.405 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.426 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.441 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.461 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.483 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.499 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.652 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.680 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.700 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.719 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.739 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.754 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.774 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.799 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.817 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:14.839 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:19.869 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:19.894 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:19.930 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:19.956 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:19.973 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:19.989 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:20.004 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:20.021 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:20.039 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:20.057 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.088 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.114 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.137 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.154 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.171 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.186 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.207 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.224 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.239 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:24:50.257 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.091 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.112 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.120 [http-nio-8080-exec-11] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.127 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.134 [http-nio-8080-exec-12] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.165 [http-nio-8080-exec-13] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.173 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.190 [http-nio-8080-exec-11] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.200 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.206 [http-nio-8080-exec-12] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.390 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.418 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.430 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.438 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.452 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.461 [http-nio-8080-exec-10] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.472 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.483 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.493 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:03.504 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.520 [http-nio-8080-exec-11] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.529 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.538 [http-nio-8080-exec-12] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.547 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.555 [http-nio-8080-exec-14] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.564 [http-nio-8080-exec-11] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.573 [http-nio-8080-exec-2] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.582 [http-nio-8080-exec-12] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.589 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:08.597 [http-nio-8080-exec-14] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.615 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.626 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.643 [http-nio-8080-exec-13] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.652 [http-nio-8080-exec-11] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.661 [http-nio-8080-exec-16] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.670 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.678 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.686 [http-nio-8080-exec-13] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.695 [http-nio-8080-exec-11] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:26:38.704 [http-nio-8080-exec-16] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:27:11.761 [http-nio-8080-exec-11] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:28:06.703 [http-nio-8080-exec-23] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:28:25.024 [http-nio-8080-exec-19] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:28:33.755 [http-nio-8080-exec-21] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:29:50.819 [http-nio-8080-exec-32] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:30:37.302 [http-nio-8080-exec-43] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:32:34.858 [http-nio-8080-exec-44] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+22:38:31.945 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 first logged in
+23:33:51.474 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:34:52.634 [http-nio-8080-exec-6] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:36:06.442 [http-nio-8080-exec-3] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:37:22.742 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:37:53.120 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:39:29.644 [http-nio-8080-exec-12] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:41:15.451 [http-nio-8080-exec-20] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:42:34.377 [http-nio-8080-exec-21] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:48:11.110 [http-nio-8080-exec-67] INFO  waterfall.controller.ChatController - User  with ip 0:0:0:0:0:0:0:1 sent message: 's'
+23:50:34.799 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+23:52:42.036 [http-nio-8080-exec-20] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:07:14.354 [http-nio-8080-exec-19] INFO  waterfall.controller.ChatController - User qwerty with ip 0:0:0:0:0:0:0:1 sent message: 'test'
+00:08:39.617 [http-nio-8080-exec-26] INFO  waterfall.controller.ChatController - User qwerty with ip 0:0:0:0:0:0:0:1 sent message: 'test2'
+00:17:42.056 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:27:21.233 [http-nio-8080-exec-13] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:33:13.089 [http-nio-8080-exec-14] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:39:29.586 [http-nio-8080-exec-15] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:41:43.452 [http-nio-8080-exec-5] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:43:14.737 [http-nio-8080-exec-7] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:44:41.089 [http-nio-8080-exec-1] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:54:12.374 [http-nio-8080-exec-4] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:54:15.744 [http-nio-8080-exec-1] INFO  waterfall.controller.ChatController - User qwerty with ip 0:0:0:0:0:0:0:1 sent message: 'qq'
+00:55:23.318 [http-nio-8080-exec-9] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:55:38.310 [http-nio-8080-exec-14] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+00:58:46.132 [http-nio-8080-exec-8] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
+01:03:24.632 [http-nio-8080-exec-14] INFO  w.controller.LoginController - User null with ip 0:0:0:0:0:0:0:1 logged in
